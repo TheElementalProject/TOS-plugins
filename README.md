@@ -1,4 +1,4 @@
-# Terms of Service for Developers
+# Terms & Conditions for Developers
 
 Any program ("code", "package", "software") developed for TheElementalProject GitHub Inc. account is technically property of ElementalNetwork ("we", "us"). The contributor to repositories on this account understand that the software submitted, while being the user's property, *is* distributed under the GitHub MIT License, meaning ElementalNetwork is free to use the software in any project they choose. ElementalNetwork will abide by the developer's rights, but only under the MIT License (the below license).
 
